@@ -5,7 +5,7 @@ I'm a passionate **Data Analyst** exploring the world of data, visualizations, a
 ---
 
 ## 🔭 About Me
-- 🎓 Recently completed my studies in IT / Data Analysis.
+- 🎓 Recently completed my Bachelor of Engineering in IT From APCOER Pune.
 - 💻 Skilled in **Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, and Power BI**.
 - 📊 Experienced in **Data Cleaning, EDA, Visualization, and Dashboard Creation**.
 - 🌱 Currently exploring **Machine Learning and Predictive Analytics**.
