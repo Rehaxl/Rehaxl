@@ -40,6 +40,16 @@ Here are some of my projects showcasing my analytical skills:
 
 ---
 
+- ## 📜 Certificates
+  
+- [Deloitte Certificate](./Ayan%20Sayyed%20Delloite%20Certificate%20-%201.pdf)
+- [TCS GenAI Certificate](./Ayan%20Sayyed%20TCS%20GenAI%20Certificate%20-%201.pdf)
+- [Data Science Udemy Certificate](./Data%20Scince%20Udemy%20certificate%20-%201.pdf)
+
+
+---
+
+
 ## 📬 Connect with Me
 Let's connect and share insights!  
 
