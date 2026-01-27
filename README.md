@@ -1,12 +1,12 @@
 # Hi there 👋, I'm Ayan Sayyed
 
-I'm a passionate **Data Analyst & Python Developer** exploring the world of data, web development, and actionable insights. I enjoy transforming raw data into insights, building scalable web applications, and creating projects that showcase analytical and backend skills using **Python, Django, Flask, SQL, and React**.
+I'm a passionate **Data Analyst & Software Developer** exploring the world of data, web development, and actionable insights. I enjoy transforming raw data into insights, building scalable web applications, and creating projects that showcase analytical and backend skills using **Python, Django, Flask, SQL, and React**.
 
 ---
 
 ## 🔭 About Me
 - 🎓 Recently completed my Bachelor of Engineering in IT From APCOER Pune.
-- 💻 Skilled in **Python, Django, Flask, Pandas, NumPy, Matplotlib, Seaborn, SQL, and Power BI**.
+- 💻 Skilled in **Python, Django, Flask, Pandas, NumPy, Matplotlib, Seaborn, SQL,Power BI, Sql , MERN**.
 - 📊 Experienced in **Data Cleaning, EDA, Visualization, Dashboard Creation, and Web Application Development**.
 - 🌱 Currently exploring **Machine Learning, Predictive Analytics, and Full-Stack Development**.
 - 📝 Working on **real-world projects** to strengthen my portfolio.
