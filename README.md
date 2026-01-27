@@ -40,7 +40,13 @@ Here are some of my projects showcasing my analytical and development skills:
    - Insights from 148K Uber rides including cancellations, revenue, and vehicle usage.
    - [View Project Repository](https://github.com/Rehaxl/Uber-Analysis-Power-BI)
 
----
+
+6. **SQL-Sales Analysis(Postgressql + Pgadmin + Kaggle)**
+   -  Built a normalized relational database by converting raw sales data into fact and dimension tables using PostgreSQL (pgAdmin).
+   -  Performed sales, profit, and trend analysis using advanced SQL queries with joins, CTEs, and window functions to derive actionable business insights.
+   -  [View Project Repository](https://github.com/Rehaxl/SQL-Sales-Analysis)
+
+
 
 ## 📊 Skills & Tools
 - **Languages:** Python, SQL, C++, Java  
