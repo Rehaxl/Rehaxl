@@ -1,76 +1,191 @@
 # Hi there 👋, I'm Ayan Sayyed
 
-I'm a passionate **Data Analyst & Software Developer** exploring the world of data, web development, and actionable insights. I enjoy transforming raw data into insights, building scalable web applications, and creating projects that showcase analytical and backend skills using **Python, Django, Flask, SQL, and React**.
+### Business Analyst | Data Analytics | Business & Operations | SQL | Power BI
+
+Analytical professional with experience in **telecom/OSP project operations** and a strong foundation in **Business Analysis, data analysis, SQL, Excel and Power BI**.
+
+Currently working at **64square Apex LLP** on enterprise telecom project workflows for **Amdocs/AT&T**, using tools such as **QGIS and ARAMIS** for network-related project activities.
+
+My experience combines **technical understanding with business and operational skills**, including documentation, data validation, workflow analysis, cross-functional coordination and project deliverables. I also have hands-on experience creating **BRD, FRD, SRS, user stories, acceptance criteria, process maps and UAT scenarios**.
+
+I'm currently focused on building my career toward **Business Analyst, Business/Operations Analyst, Business Consultant and Project/PMO roles**.
 
 ---
 
-## 🔭 About Me
-- 🎓 Recently completed my Bachelor of Engineering in IT From APCOER Pune.
-- 💻 Skilled in **Python, Django, Flask, Pandas, NumPy, Matplotlib, Seaborn, SQL,Power BI, Sql , MERN**.
-- 📊 Experienced in **Data Cleaning, EDA, Visualization, Dashboard Creation, and Web Application Development**.
-- 🌱 Currently exploring **Machine Learning, Predictive Analytics, and Full-Stack Development**.
-- 📝 Working on **real-world projects** to strengthen my portfolio.
+## 👨‍💻 About Me
+
+* 🎓 B.E. in Information Technology from **Anantrao Pawar College of Engineering & Research, Pune**
+* 💼 Working in **telecom/OSP project operations** at 64square Apex LLP
+* 🏢 Supporting an enterprise project environment involving **Amdocs/AT&T**
+* 📊 Interested in **Business Analysis, Data Analytics and Process Improvement**
+* 🧩 Experienced with **requirements documentation, workflow analysis and UAT**
+* 📈 Building dashboards and analytical solutions using **SQL, Excel and Power BI**
+* 💻 Technical background in **Python, databases and web development**
+* 🌱 Currently strengthening my skills in **SQL, Power BI, Business Analysis, Agile and Project Management**
 
 ---
 
-## 📂 Projects & Portfolio
-Here are some of my projects showcasing my analytical and development skills:
+## 🧠 Business Analysis Skills
 
-1. **NovelNest (Book Swapping Web App)**
-   - A **Tinder-inspired platform for book lovers** to discover and swap books online in Pune.
-   - Features include profile cards with favorite books, swipe-based discovery, direct messaging with **emoji, file/video sharing**, and map-based meetup coordination.
-   - Tech Stack: **React, TailwindCSS, Django REST Framework, PostgreSQL, Redis**.
-   - [View Project Repository](https://github.com/Rehaxl/NovelNest)
-
-2. **College Management System with Job Recommendation**
-   - Full-stack application for managing college operations (admins, faculty, students) with dashboards, material uploads, and notices.
-   - Integrated a **job recommendation module**: Users can upload PDF resumes, extract skills using **TF-IDF**, scrape job listings from Remotive, and get personalized recommendations.
-   - Tech Stack: **React, Redux, TailwindCSS, Flask, MongoDB Atlas, Scrapy, TF-IDF, Axios**.
-   - [View Project Repository](https://github.com/Rehaxl/StudySync)
-
-3. **Customer Churn Prediction (Python + ML)**
-   - Predict customer churn for telecom companies using Logistic Regression & Random Forest.
-   - [View Project Repository](https://github.com/Rehaxl/churn)
-
-4. **Aviation Flights Analysis (Python + EDA)**
-   - Analyzed 1000 aviation flight records for trends in airlines, routes, delays, and aircraft usage.
-   - [View Project Repository](https://github.com/Rehaxl/Aviation_Analysis_API)
-
-5. **Uber Ride Analytics (Power BI + Python)**
-   - Insights from 148K Uber rides including cancellations, revenue, and vehicle usage.
-   - [View Project Repository](https://github.com/Rehaxl/Uber-Analysis-Power-BI)
-
-
-6. **SQL-Sales Analysis(Postgressql + Pgadmin + Kaggle)**
-   -  Built a normalized relational database by converting raw sales data into fact and dimension tables using PostgreSQL (pgAdmin).
-   -  Performed sales, profit, and trend analysis using advanced SQL queries with joins, CTEs, and window functions to derive actionable business insights.
-   -  [View Project Repository](https://github.com/Rehaxl/SQL-Sales-Analysis)
-
-
-
-## 📊 Skills & Tools
-- **Languages:** Python, SQL, C++, Java  
-- **Data Analysis & ML:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Power BI  
-- **Web Development:** Django, Flask, React, Redux, TailwindCSS, Bootstrap, Axios  
-- **Database & Cloud:** PostgreSQL, MongoDB Atlas, Redis, MySQL, SQL Server  
-- **Other Tools:** Git, GitHub, VSCode, Streamlit, Cloudinary, OpenAI APIs  
+* Requirement Gathering
+* Requirement Analysis
+* BRD / FRD / SRS
+* User Stories
+* Acceptance Criteria
+* Process Mapping
+* Workflow Analysis
+* Gap Analysis
+* Stakeholder Communication
+* UAT & Test Scenarios
+* Data Validation
+* Business Documentation
+* Cross-functional Coordination
 
 ---
 
-## 📜 Certificates
-- [Data Science Udemy Certificate](./Data%20Scince%20Udemy%20certificate%20-%201.pdf)  
-- [TCS GenAI Certificate](./Ayan%20Sayyed%20TCS%20GenAI%20Certificate%20-%201.pdf)  
-- [Deloitte Certificate](./Ayan%20Sayyed%20Delloite%20Certificate%20-1.pdf)  
+## 📊 Data & Analytics
+
+* **SQL**
+* **Microsoft Excel**
+* **Power BI**
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* Data Cleaning
+* Exploratory Data Analysis
+* Data Visualization
+* KPI Analysis
 
 ---
 
-## 📬 Connect with Me
-Let's connect and share insights!  
+## 🛠️ Tools & Technologies
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayan-sayyed-875190220/)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram)](https://www.instagram.com/sayadism/)  
-[![Portfolio](https://img.shields.io/badge/-Projects-gray?style=flat&logo=github)](https://github.com/Rehaxl)
+### Business & Analytics
+
+`SQL` `Excel` `Power BI` `Jira` `Figma` `Lucidchart`
+
+### Programming
+
+`Python` `C++` `Java`
+
+### Databases
+
+`PostgreSQL` `MySQL` `SQL Server` `MongoDB`
+
+### Development
+
+`Django` `Flask` `React` `Redux` `TailwindCSS` `REST APIs`
+
+### Telecom / Operations
+
+`QGIS` `ARAMIS` `OSP Workflows`
+
+### Other
+
+`Git` `GitHub` `VS Code` `Streamlit`
 
 ---
 
-✨ I’m always excited to learn new techniques and collaborate on interesting **data analytics and Python web development projects**. Feel free to reach out!
+# 📂 Featured Projects
+
+## 1. 📊 SQL Sales Analysis
+
+**PostgreSQL | SQL | Data Analysis | Kaggle**
+
+Built a normalized relational database by transforming raw sales data into **fact and dimension tables**.
+
+### Key Work
+
+* Designed a structured relational database using PostgreSQL.
+* Performed sales, profit and trend analysis.
+* Used **JOINs, CTEs and Window Functions** for advanced analysis.
+* Generated business-oriented insights from transactional data.
+* Focused on converting raw data into information useful for business decision-making.
+
+🔗 [View Project Repository](https://github.com/Rehaxl/SQL-Sales-Analysis)
+
+---
+
+## 2. 📈 Uber Ride Analytics Dashboard
+
+**Power BI | Python | Data Analysis | Data Visualization**
+
+Analyzed **148K+ Uber ride records** to understand booking patterns, cancellations, revenue and customer behavior.
+
+### Key Analysis
+
+* Booking and ride performance
+* Customer and driver cancellations
+* Revenue distribution
+* Payment methods
+* Customer satisfaction
+* Operational performance
+
+Created an interactive Power BI dashboard and translated the analysis into **business-oriented insights and KPIs**.
+
+🔗 [View Project Repository](https://github.com/Rehaxl/Uber-Analysis-Power-BI)
+
+---
+
+## 3. 🧾 Online Loan Application System
+
+**Business Analysis | BRD | SRS | Process Mapping | Figma | Jira**
+
+Designed a business analysis case study for a digital loan application and customer onboarding system.
+
+### BA Deliverables
+
+* Requirement Gathering
+* BRD
+* SRS
+* Workflow Mapping
+* User Stories
+* Acceptance Criteria
+* Wireframes
+* UAT Scenarios
+
+The project focuses on converting a manual loan-processing workflow into a structured digital process.
+
+🔗 Project Repository
+
+---
+
+## 4. 🍔 Online Food Delivery System
+
+**Business Analysis | BRD | SRS | FRD/NFR | Figma | Lucidchart | Jira**
+
+Created a complete business analysis case study for an online food delivery platform.
+
+### BA Deliverables
+
+* BRD
+* SRS
+* FRD/NFR
+* User Stories
+* Acceptance Criteria
+* Use Case Diagram
+* Activity Diagram
+* Sequence Diagram
+* ERD
+* Wireframes
+* UAT Test Cases
+
+The project covers restaurant discovery, ordering, payment and delivery workflows.
+
+🔗 Project Repository
+
+---
+
+## 5. 📉 Customer Churn Prediction
+
+**Python | Pandas | Scikit-learn | Machine Learning**
+
+Developed a machine learning model to analyze and predict customer churn for a telecom-oriented use case.
+
+### Focus Areas
+
+* Data prepro
+
